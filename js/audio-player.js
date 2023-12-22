@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Uncomment the line below if you want the audio to loop
-    // audio.loop = true;
+    audio.loop = true;
 
     // Uncomment the line below if you want to pause the audio after a specific time (in milliseconds)
     // setTimeout(function(){ audio.pause(); }, 5000); // 5000 milliseconds = 5 seconds
